@@ -5,6 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Conference](https://img.shields.io/badge/ICLR-2025-blue)](https://iclr.cc/Conferences/2025)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-red)](https://openreview.net/forum?id=OiQttMHwce)
 
 Official implementation of the paper "Distance-Based Tree-Sliced Wasserstein Distance" (ICLR 2025).
 
