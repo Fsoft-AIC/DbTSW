@@ -1,0 +1,3 @@
+ninja
+wandb
+scipy

@@ -1,0 +1,5 @@
+Results_reduced/
+Results/
+wandb/
+run.sh
+run_swiss.sh
