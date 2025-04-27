@@ -9,7 +9,7 @@ import pickle
 
 from core.utils_GF import load_data, w2
 import core.gradient_flow as gradient_flow
-from core.TW import generate_trees_frames
+from db_tsw.utils import generate_trees_frames
 import cfg
 args = cfg.parse_args()
 from tqdm import tqdm
